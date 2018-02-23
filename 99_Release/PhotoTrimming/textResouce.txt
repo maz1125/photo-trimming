@@ -1,0 +1,20 @@
+APPLICATION_TITLE:TRICO
+TARGET_FOLDER_LABEL:トリミング対象フォルダ
+REFERENCE_BUTTON_LABEL:参照
+EXECUTE_TRIMMING_BUTTON_LABEL:実行
+LOG_LABEL:ログ
+DELETE_LOG_BUTTON_LABEL:ログ消去
+CLOSE_BUTTON_LABEL:閉じる
+START_LOG:-----Trimming Start-----
+SUCCESS_LOG:-----正常終了-----
+ERROR_LOG:-----異常終了-----
+ERROR_LOAD_ORDER_TEXT:order.txtの読み込みでエラーが発生しました
+ERROR_LOAD_PHOTO:写真の読み込みでエラーが発生しました
+ERROR_CREATE_FOLDER:フォルダ作成でエラーが発生しました
+ERROR_EXECUTE_ROTATE:Rotate作業でエラーが発生しました
+ERROR_EXECUTE_TRIMMING:トリミング作業でエラーが発生しました
+ERROR_SAVE_PHOTO:編集後写真の保存で失敗しました
+ERROR_DISPOSE:Dispose作業でエラーが発生しました
+ERROR_CREATE_OREDER_INFORMATION:OrderInformation作業でエラーが発生しました
+SIZE:Size
+ORDER_NO:Order NO
