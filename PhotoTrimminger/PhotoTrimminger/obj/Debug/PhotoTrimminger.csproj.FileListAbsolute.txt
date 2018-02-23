@@ -1,0 +1,18 @@
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\bin\Debug\PhotoTrimminger.exe.config
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\bin\Debug\PhotoTrimminger.exe
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\bin\Debug\PhotoTrimminger.pdb
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.csprojResolveAssemblyReference.cache
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.Form1.resources
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.Properties.Resources.resources
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.csproj.GenerateResource.Cache
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.exe
+f:\users\works\documents\visual studio 2015\Projects\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.pdb
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\bin\Debug\PhotoTrimminger.exe.config
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.exe
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.pdb
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\bin\Debug\PhotoTrimminger.exe
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\bin\Debug\PhotoTrimminger.pdb
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.csprojResolveAssemblyReference.cache
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.Form1.resources
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.Properties.Resources.resources
+C:\Users\matsuda_d\Documents\12_サトーカメラ\41_TRICO\03\PhotoTrimminger\PhotoTrimminger\PhotoTrimminger\obj\Debug\PhotoTrimminger.csproj.GenerateResource.Cache
